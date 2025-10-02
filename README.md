@@ -1,6 +1,6 @@
 # Nhom-14
 git checkout -b feature-25161150
-echo "## Thông tin cá nhân
+echo "Thông tin cá nhân
 - Họ tên: Huỳnh Tuấn Kiệt
 - MSSV: 25161150
 - Giới thiệu: Thân thiện, hòa đồng, vui vẻ." > members/25161150.md
